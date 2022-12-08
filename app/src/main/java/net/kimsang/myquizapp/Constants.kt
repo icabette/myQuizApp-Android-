@@ -59,7 +59,7 @@ object Constants {
             "Austrailia",
             "Armenia",
             "Korea",
-            1
+            4
         )
         questionList.add(que5)
 
